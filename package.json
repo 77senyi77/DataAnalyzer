@@ -1,0 +1,26 @@
+{
+  "name": "dataanalyzerourtea",
+  "version": "1.0.0",
+  "description": "Welcome to DataAnalyzer! DataAnalyzer is a powerful data analysis tool designed to help businesses and researchers make sense of their data. Whether you're analyzing sales trends, conducting market research, or exploring scientific data, DataAnalyzer provides a comprehensive suite of tools and algorithms to uncover insights and drive informed decision-making. Say goodbye to manual data crunching and hello to smarter analytics with DataAnalyzer!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/77senyi77/DataAnalyzer.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "77senyi77",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
